@@ -36,7 +36,7 @@ Since the patcher officially supports Big Sur and newer for patching, only those
 
 Once finished, you can proceed to write the installer onto a USB drive.
 
-* Note: The entire USB drive will be formatted
+* Note: The entire USB drive will be formatted. To prevent you from errors, it can help to format the USB drive first with disk utility to Mac OS journaled.
 
 | Select Downloaded Installer | Select disk to format |
 | :--- | :--- |
